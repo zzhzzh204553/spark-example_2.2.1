@@ -76,6 +76,7 @@ local.properties
 .directory
 
 #IDEA (Inellij)
-.idea/
 *.iml
 *.iws
+/.idea/
+/.idea/libraries/
